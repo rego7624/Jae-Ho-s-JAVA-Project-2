@@ -13,4 +13,6 @@
 도서관 관리 시스템/프로그램을 java로 구현해봤습니다:)
 
 
-**I made a library managing program as this semester’s JAVA team project. I built program to manage books by using Book class and members by using Member class, using two class at Library class to practically manage book lending system at library**
+### I made a library managing program as my individual Project!
+
+I built program to manage books by using Book class and members by using Member class, using two class at Library class to practically manage book lending system at library
