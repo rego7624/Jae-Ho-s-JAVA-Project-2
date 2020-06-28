@@ -11,7 +11,6 @@
 
 ## Description
 
-도서관 관리 시스템/프로그램을 java로 구현해봤습니다:)
 
 ### I made a library managing program as my individual Project!
 
