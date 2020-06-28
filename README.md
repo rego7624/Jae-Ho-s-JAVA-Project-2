@@ -6,7 +6,7 @@
 
 ## Library Managing System
 
-<img alt="도서관 매니저 프로필" src="https://lh3.googleusercontent.com/proxy/bGqUNPKpEtq2MTH4VG1PAHX9BiRUv7Rg_9NzelGvPjOZr19mExOashDKGv4ReRinzpV5ygR7zvcDTRRmFzy1gIBa4djRJzbjtB3_VxUGqVWHa6t9xxM5G5NZq9EA2nS6J4r0au0PU35yvTLtjH7nkh7NW0SGWCJp5Lp-qX4X3qFOPDUQ71nAkIFV8ugshsLyYnoEyrDEls_qecemed-iV8WslWtVyx-E9VXiDb5kdnyI7mEfhDy3OGMFUGkQQcQmEtTaJXad2K_fpFRsQIWmL9Aqvv-h" width="200">
+<img alt="도서관 매니저 프로필" src="https://lh3.googleusercontent.com/proxy/JGwWd75u0CBWMSiSlLByDpuqZ0lc4cBYE1_HtQQN3xsVH-pDYq0OfXODWu6AQjOyHFNpoS-XfpafNlecM6S-D5MsS-OA4hJTDLxYKBD5YHZUHygZ65FSQWkjbZkpv9IRy7Oo_IoLwDPrm5myoAAggPpTibVQZq0P" width="200">
 
 **Description**
 
