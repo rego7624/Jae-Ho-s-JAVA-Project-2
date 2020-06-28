@@ -17,7 +17,7 @@
 * I built program to manage books by using Book class and members by using Member class, using two class at Library class to practically manage book lending system at library
 
 
-- UML
+**UML**
 
 <img alt="아키텍처1" src="https://ifh.cc/g/RIGwVc.png" width="400">
 
@@ -27,7 +27,7 @@
 
 <img alt="아키텍처1" src="https://ifh.cc/g/7jfPYU.png" width="400">
 
--Book Class
+**Book Class**
 
 * This class is for managing books at the library. Each book class has a variable serialNum which contains the book’s serial number, bookName which contains the book’s name, bookAuthor which contains the book’s author and borrowOrnot which contains information about the book’s status. When borrowOrnot is 0, the book is not borrowed. When borrowOrnot is 1, the book is borrowed. When borrowOrnot is 2, the book is borrowed and reserved. When the borrowOrnot is 3, the book is reserved and returned.
 
