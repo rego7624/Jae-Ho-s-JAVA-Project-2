@@ -21,11 +21,11 @@
 
 <img alt="아키텍처1" src="https://ifh.cc/g/RIGwVc.png" width="400">
 
-<img alt="아키텍처1" src="https://ifh.cc/g/gXgoAQ.png" width="400">
+<img alt="아키텍처2" src="https://ifh.cc/g/gXgoAQ.png" width="400">
 
-<img alt="아키텍처1" src="https://ifh.cc/g/QPioVC.png" width="400">
+<img alt="아키텍처3" src="https://ifh.cc/g/QPioVC.png" width="400">
 
-<img alt="아키텍처1" src="https://ifh.cc/g/7jfPYU.png" width="400">
+<img alt="아키텍처4" src="https://ifh.cc/g/7jfPYU.png" width="400">
 
 **Book Class**
 
